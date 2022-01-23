@@ -3,7 +3,6 @@
 ## 3D FPS game project by Unity
 2020/06/01~2020/06/29
 
-<br>
 ## Screenshots
 <img width="500" alt="레프트_처음시작" src="https://user-images.githubusercontent.com/56349582/150699903-ae4bbb10-f9b5-4522-93d6-be31f2b6cd2b.png">
 <img width="500" alt="레프트_아이템1" src="https://user-images.githubusercontent.com/56349582/150699910-3c636831-9b95-4eef-a060-2a99353ccf22.png">
