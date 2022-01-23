@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{2ECDFB42-7694-B635-7D39-7AAFCEC51DD3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LTG/Scripts/EnemyMove.cs">
+    <Files>
+      <File FileName="Assets/LTG/Scripts/EnemyMove.cs" Line="14" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LEFT_0609" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="LTG" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="EnemyMove.cs" selected="True" />
+                </Node>
+                <Node name="True_Horror" expanded="True">
+                  <Node name="True_Crawler" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Shared" expanded="True" />
+              <Node name="Standard Assets" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4e55a85d-7cb9-46f6-8363-2ba1ad2bb2ed" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

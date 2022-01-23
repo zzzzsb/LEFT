@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{92201B04-0297-9C3B-F90B-C11B3B9ED4BB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/JSB/Scripts/GunFire.cs">
+    <Files>
+      <File FileName="Assets/JSB/Scripts/GunFire.cs" Line="36" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LEFT_0609_map1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="JSB" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="GunFire.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="LTG" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2ffaa379-4fc2-4365-aca5-5decaed95356" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

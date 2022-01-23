@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{3C48D4B3-BFC4-F455-590F-A18A926D3B08}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/JSB/Scripts/FadeScript.cs">
+    <Files>
+      <File FileName="../../../../Applications/Unity/Hub/Editor/2019.3.14f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/VertexModifiers/Outline.cs" Line="1" Column="1" />
+      <File FileName="Assets/JSB/Scripts/PlayerInventory.cs" Line="90" Column="14" />
+      <File FileName="Assets/LTG/Scripts/Ui_Icon.cs" Line="1" Column="1" />
+      <File FileName="Assets/JSB/Scripts/EnemyManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/JSB/Scripts/CamRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets/JSB/Scripts/CamFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/JSB/Scripts/CameraShake.cs" Line="76" Column="28" />
+      <File FileName="Assets/JSB/Scripts/HelicopterRoom.cs" Line="58" Column="1" />
+      <File FileName="Assets/LTG/Scripts/UI_ItemName.cs" Line="17" Column="17" />
+      <File FileName="Assets/LTG/Scripts/Lamp.cs" Line="37" Column="43" />
+      <File FileName="Assets/JSB/Scripts/PlayerDie.cs" Line="11" Column="1" />
+      <File FileName="Assets/JSB/Scripts/FadeScript.cs" Line="9" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LEFT_0627_합본" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="JSB" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="FadeScript.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="LTG" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="112361fc-9e82-42e4-8706-567de0f554f1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
