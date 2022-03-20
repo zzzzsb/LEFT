@@ -1,8 +1,11 @@
 # LEFT
 
 ## 3D FPS game project by Unity
-- 2020/06/01~2020/06/29
-- 임태규, 지수빈
+개발기간 | 2020/06/01~2020/06/29
+팀원 | 임태규, 지수빈
+
+## 실행영상
+https://youtu.be/O4NI9u1phuI
 
 ## Screenshots
 <img width="500" alt="레프트_처음시작" src="https://user-images.githubusercontent.com/56349582/150699903-ae4bbb10-f9b5-4522-93d6-be31f2b6cd2b.png">
